@@ -30,7 +30,7 @@ Data Source: API-based or CSV datasets
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/COVID19-Data-Dashboard.git
+git clone https://github.com/Geetha1918/COVID19-Data-Dashboard.git
 cd COVID19-Data-Dashboard
 
 2️⃣ Install dependencies:
